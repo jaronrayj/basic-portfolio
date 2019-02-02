@@ -17,5 +17,9 @@ footer {
     margin: 0;
     padding: 0;
     border-top: 8px solid #4aaaa5;
-    
+    color: #666666;
+}
+
+h1, p {
+    margin: auto;
 }
