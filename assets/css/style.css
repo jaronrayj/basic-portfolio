@@ -2,10 +2,13 @@ header {
     margin: 0;
     padding: 0;
     background-color: #FFFFFF;
+    width: 25%;
+    
 }
 
 body {
-    background-image: url("../images/prism.png");
+    /* background-image: url("../images/prism.png"); */
+    padding: 0 15% 0 15%;
 }
 
 img {
@@ -14,12 +17,31 @@ img {
 }
 
 footer {
-    margin: 0;
-    padding: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     border-top: 8px solid #4aaaa5;
     color: #666666;
 }
 
 h1, p {
     margin: auto;
+}
+
+nav {
+    width 10%;
+}
+
+.name {
+    float: left;
+}
+
+.links {
+    float: right;
+    padding: 10px;
+}
+
+section {
+    clear: both;
 }
