@@ -73,6 +73,7 @@ section {
     background: white;
     border: 2px solid #DDDDDD;
     height: 550px;
+    line-height: 2em;
 }
 
 .bioPic {
