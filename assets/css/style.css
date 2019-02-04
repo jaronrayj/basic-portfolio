@@ -31,7 +31,6 @@ footer {
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
     height: 50px;
-    
 }
 
 h1, p {
@@ -114,4 +113,23 @@ a:hover {
 .portfolio {
     float: left;
     position: relative;
+}
+
+input {
+    width: 100%;
+    margin: 3px 100px 3px 0px;
+    padding: 3px;
+    border-radius: 4px;
+    font-size: 12px;
+
+}
+
+.input {
+    height: 250px;
+}
+
+.submit {
+    width: 60px;
+    clear: both;
+    background-color: #4AAAA5;
 }
